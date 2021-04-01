@@ -42,11 +42,11 @@ The format of docstrings is NumPy/SciPy, following PEP 257. **The four files of 
 <hr>
 Main menu
 
-![Diary menu](\images\Diary_menu.png)
+![Diary menu](https://github.com/Jony-softdeveloper/diary_python/blob/main/images/Diary_menu.PNG)
 
 Showing an entry
-![Showing an entry](\images\Show_an_entry.png)
+![Showing an entry](https://github.com/Jony-softdeveloper/diary_python/blob/main/images/Show_an_entry.PNG)
 
 Author: Jonathan Garcia S. @Jony-softdeveloper
 <br/>
-This project is licensed under the terms of the **GPL-3.0-or-later** (see copying.txt   ).
+This project is [licensed](copying.txt) under the terms of the **GPL-3.0-or-later**.
