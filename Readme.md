@@ -31,7 +31,6 @@ The format of docstrings is NumPy/SciPy, following PEP 257. **The four files of 
 <br/>
 
 ## Usage
-<hr/>
 
 Once you are donwload the project...
 
