@@ -1,5 +1,7 @@
 ### Personal Diary 📔📗
 <hr/>
+Version 1.0
+
 It is a mini-project created using:
 
 * [Python][] 3(.9) as programming lenguage
@@ -53,12 +55,13 @@ Showing an entry
 
 ![Showing an entry](https://github.com/Jony-softdeveloper/diary_python/blob/main/images/Show_an_entry.PNG)
 
+<br/>
+
 ### Contributing
 <hr/>
 
 If wou wish to contribute to preject, please read [Contributing.md](https://github.com/Jony-softdeveloper/diary_python/blob/main/Contributing.md).
 
-<br/>
 
 ### Credits
 <hr/>
